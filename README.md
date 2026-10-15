@@ -1,6 +1,6 @@
 # Flagpole — Feature Flag Management Platform
 
-[![CI](https://github.com/YOUR_USERNAME/feature-flag-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/feature-flag-platform/actions/workflows/ci.yml)
+[![CI](https://github.com/aniruddha202005/feature-flag-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/aniruddha202005/feature-flag-platform/actions/workflows/ci.yml)
 
 A full-stack feature flag platform that lets teams turn features on and off in production, target specific users, and roll changes out gradually (1% → 10% → 100%) without redeploying.
 
